@@ -1,0 +1,23 @@
+{
+  "name": "docker",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Genie77998/docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Genie77998/docker/issues"
+  },
+  "homepage": "https://github.com/Genie77998/docker#readme",
+  "dependencies": {
+    "koa": "^2.8.1"
+  }
+}
