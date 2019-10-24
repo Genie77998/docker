@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:lts-buster-slim
 
 RUN mkdir -p /opt/nodeServer
 WORKDIR /opt/nodeServer
